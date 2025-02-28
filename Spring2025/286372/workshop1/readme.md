@@ -6,6 +6,10 @@
 |---------|------------|-------|
 | 📂 **Notes** | Explored MATLAB Basics and Numerical Mehtods to solve equations | [readme file](./readme.md) [matlab file](./workshop1.m) |
 | 📂 **Codes** | Codes of examples proposed during the workshop | [Link](./codes) |
+| 📂 **Video** | Video of workshop | [Link](https://youtu.be/ZkO0NV61fA8) |
+| 📂 **Bisection** | Video of bisection method | [Link](https://youtu.be/SC3qALFrtq4) |
+
+
 
 
 ## Preliminaries

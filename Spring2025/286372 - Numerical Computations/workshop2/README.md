@@ -1,34 +1,13 @@
 
-# MATLAB Basics (Workshop 1)
+# MATLAB Basics (Workshop 2)
 
 ## Contents
 | Section | Description | Links |
 |---------|-------------|-------|
-| 📂 **Notes** | Explored MATLAB Basics and Numerical Methods to solve equations | [readme file](./readme.md) [matlab file](./workshop1.m) |
+| 📂 **Notes** | Explored MATLAB Basics and Numerical Methods to solve equations | [readme file](./readme.md) [matlab file](./workshop2.m) |
 | 📂 **Codes** | Code examples used in the workshop | [Link](./codes) |
-| 📂 **Video** | Workshop recording | [Link](https://youtu.be/ZkO0NV61fA8) |
-| 📂 **Bisection** | Bisection method explanation | [Link](https://youtu.be/SC3qALFrtq4) |
+| 📂 **Video** | Workshop recording | [Link](https://youtu.be/3wUlsy59KI4) |
 
-## 🛠️ Functions
-
-* **Single Output**:
-
-  ```matlab
-  function y = f(x)
-      y = x^2 + 5;
-  end
-  ```
-
-* **Multiple Outputs**:
-
-  ```matlab
-  function [y1, y2] = f(x1, x2)
-      y1 = x1^2 + 4;
-      y2 = abs(x2 * 3 + x1);
-  end
-  ```
-
----
 
 ## 📐 Differentiation
 

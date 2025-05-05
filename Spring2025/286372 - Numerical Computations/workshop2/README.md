@@ -5,8 +5,8 @@
 | Section | Description | Links |
 |---------|-------------|-------|
 | 📂 **Notes** | Explored MATLAB Basics and Numerical Methods to solve equations | [readme file](./readme.md) [matlab file](./workshop2.m) |
-| 📂 **Codes** | Code examples used in the workshop | [Link](./codes) |
-| 📂 **Video** | Workshop recording | [Link](https://youtu.be/3wUlsy59KI4) |
+| 📂 **Codes** | Code examples used in the workshop | [codes](./codes) |
+| 📂 **Video** | Workshop recording | [Differentiation](https://youtu.be/3wUlsy59KI4) [Integration](https://youtu.be/OAMNWzkMYhs) |
 
 
 ## 📐 Differentiation
